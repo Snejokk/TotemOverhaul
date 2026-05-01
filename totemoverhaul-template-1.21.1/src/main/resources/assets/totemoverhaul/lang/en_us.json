@@ -1,0 +1,13 @@
+{
+  "itemGroup.totemoverhaul": "Example Mod Tab",
+  "block.totemoverhaul.example_block": "Example Block",
+  "item.totemoverhaul.example_item": "Example Item",
+
+  "totemoverhaul.configuration.title": "TotemOverhaul Configs",
+  "totemoverhaul.configuration.section.totemoverhaul.common.toml": "TotemOverhaul Configs",
+  "totemoverhaul.configuration.section.totemoverhaul.common.toml.title": "TotemOverhaul Configs",
+  "totemoverhaul.configuration.items": "Item List",
+  "totemoverhaul.configuration.logDirtBlock": "Log Dirt Block",
+  "totemoverhaul.configuration.magicNumberIntroduction": "Magic Number Text",
+  "totemoverhaul.configuration.magicNumber": "Magic Number"
+}
